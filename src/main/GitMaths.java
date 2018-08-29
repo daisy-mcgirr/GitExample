@@ -10,4 +10,8 @@ public class GitMaths {
 		int c = a-b;
 		return c;
 	}
+	
+	public static int add(int a, int b) {
+		return a+b;
+	}
 }
